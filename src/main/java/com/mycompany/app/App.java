@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("another change zzz");
+        System.out.println("random change to force a build on Jenkins!!!");
     }
 
     public String getMessage() {
